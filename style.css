@@ -1,0 +1,19 @@
+fieldset {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+}
+
+fieldset label:not(:last-of-type) {
+  margin-bottom: 10px;
+}
+
+.lovecats {
+  display: inline-block;
+}
+
+input[type="number"] {
+  max-width: 65px;
+}
