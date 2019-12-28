@@ -1,16 +1,16 @@
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-label {
+.label {
   display: block;
 }
 
-fieldset label:not(:last-of-type) {
+.label:not(:last-of-type) {
   margin-bottom: 10px;
 }
 
-.lovecats {
+.inline-block {
   display: inline-block;
 }
 
